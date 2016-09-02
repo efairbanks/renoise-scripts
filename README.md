@@ -1,0 +1,1 @@
+Renoise scripts for procedurally generating sequence data. A recording of an example that generates a melody based on a specified chord progression can be found here: http://ericfairbanks.org/algohouse.mp3
